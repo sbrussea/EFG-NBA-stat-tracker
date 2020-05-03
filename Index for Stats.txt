@@ -1,0 +1,29 @@
+[0] Player Player Name
+[1] Pos Position
+[2] Age
+[3] Tm Team
+[4] G Games
+[5] GS Games Started
+[6] MP Minutes Played
+[7] FG Field Goals
+[8] FGA Field Goals Attempted
+[9] FG% Field Goal Percentage
+[10] 3P 3 Pointers Made
+[11] 3PA 3 Pointers Attempted
+[12] 3P% 3 Point Percentage
+[13] 2P 2 Pointers Made
+[14] 2PA 2 Pointers Attempted
+[15] 2P% 2 Point Percentage
+[16] eFG% Effective Field Goal Percentage (not way calculated in code)
+[17] FT Free Throws Made
+[18] FTA Free Throws Attempted
+[19] FT% Free Throw Percentage
+[20] ORB Offensive Rebounds
+[21] DRB Defensive Rebounds
+[22] TRB Total Rebounds
+[23] AST Assists
+[24] STL Steals
+[25] BLK Blocks
+[26] TOV Turnovers
+[27] Personal Fouls
+[28] Points 
